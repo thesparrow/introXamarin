@@ -1,4 +1,4 @@
-# introXamarin
+# introXamarin  Project Length: 2 weeks (6 hours per day) 
 
 Understanding the basics of XAML layouts 
 * Stacklayout 
